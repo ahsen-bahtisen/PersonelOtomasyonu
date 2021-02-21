@@ -1,0 +1,15 @@
+c:\users\hp\documents\visual studio 2013\Projects\personelotomasyonu\personelotomasyonu\bin\Debug\personelotomasyonu.exe.config
+c:\users\hp\documents\visual studio 2013\Projects\personelotomasyonu\personelotomasyonu\bin\Debug\personelotomasyonu.exe
+c:\users\hp\documents\visual studio 2013\Projects\personelotomasyonu\personelotomasyonu\bin\Debug\personelotomasyonu.pdb
+c:\users\hp\documents\visual studio 2013\Projects\personelotomasyonu\personelotomasyonu\obj\Debug\personelotomasyonu.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\personelotomasyonu\personelotomasyonu\obj\Debug\personelotomasyonu.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2013\Projects\personelotomasyonu\personelotomasyonu\obj\Debug\personelotomasyonu.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2013\Projects\personelotomasyonu\personelotomasyonu\obj\Debug\personelotomasyonu.exe
+c:\users\hp\documents\visual studio 2013\Projects\personelotomasyonu\personelotomasyonu\obj\Debug\personelotomasyonu.pdb
+c:\users\hp\documents\visual studio 2013\Projects\personelotomasyonu\personelotomasyonu\obj\Debug\personelotomasyonu.giris.resources
+c:\users\hp\documents\visual studio 2013\Projects\personelotomasyonu\personelotomasyonu\obj\Debug\personelotomasyonu.Personel_Ekle_Sil.resources
+c:\users\hp\documents\visual studio 2013\Projects\personelotomasyonu\personelotomasyonu\obj\Debug\personelotomasyonu.Personel_Giris.resources
+c:\users\hp\documents\visual studio 2013\Projects\personelotomasyonu\personelotomasyonu\obj\Debug\personelotomasyonu.yönetici_Giris.resources
+c:\users\hp\documents\visual studio 2013\Projects\personelotomasyonu\personelotomasyonu\obj\Debug\personelotomasyonu.Yönetici_Giris2.resources
+c:\users\hp\documents\visual studio 2013\Projects\personelotomasyonu\personelotomasyonu\obj\Debug\personelotomasyonu.Personel_Giris_2.resources
+c:\users\hp\documents\visual studio 2013\Projects\personelotomasyonu\personelotomasyonu\obj\Debug\personelotomasyonu.Personel_Giris_Cikis.resources
